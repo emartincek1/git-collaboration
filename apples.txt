@@ -5,3 +5,4 @@ honeycrisp
 gala
 golden delicious
 cripps pink
+mcintosh
