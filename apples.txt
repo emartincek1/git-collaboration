@@ -4,3 +4,4 @@ gala
 honeycrisp
 gala
 golden delicious
+cripps pink
